@@ -1,0 +1,19 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "description": "Tech Training Extreme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MultiVision"
+  },
+  "author": "Gabe Harris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.6.1",
+    "jade": "^1.4.1"
+  }
+}
