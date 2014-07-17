@@ -13,8 +13,10 @@
   "author": "Gabe Harris",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.4.3",
     "express": "^4.6.1",
     "jade": "^1.4.1",
+    "morgan": "^1.1.1",
     "stylus": "^0.47.1"
   },
   "devDependencies": {
