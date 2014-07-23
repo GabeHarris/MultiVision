@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-	"engines":{
-		"node":"0.10.x",
-		"npm":"1.4.x"
-	},
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
   "repository": {
     "type": "git",
     "url": "MultiVision"
@@ -22,6 +22,7 @@
     "jade": "^1.4.1",
     "mongoose": "^3.8.13",
     "morgan": "^1.1.1",
+    "passport": "^0.2.0",
     "stylus": "^0.47.1"
   },
   "devDependencies": {
